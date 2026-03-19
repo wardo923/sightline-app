@@ -1,0 +1,16 @@
+{
+  "name": "SightLine Advanced Trading Analytics",
+  "short_name": "SightLine",
+  "description": "Real Trades. Real Simple. Markets scanned in real time with clean alerts.",
+  "start_url": "/m",
+  "display": "standalone",
+  "background_color": "#030806",
+  "theme_color": "#22C55E",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
