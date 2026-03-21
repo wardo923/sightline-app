@@ -22,7 +22,7 @@ export default function Home() {
         fontSize: "16px",
         cursor: "pointer"
       }}>
-        Start Strategy Wizard
+        TEST LIVE
       </button>
     </main>
   )
